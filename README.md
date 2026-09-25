@@ -1,2 +1,2 @@
 # Vigialante de preço
-Repositório oficial do PoupaHub, projeto integrador da turma de Front-end ofertado pelo Senac DF em conjunto com a Serasa e o Instituto Gerando Falcões.
+Repositório oficial do Vigia do preço, projeto integrador da turma de Front-end ofertado pelo Senac DF em conjunto com a Serasa e o Instituto Gerando Falcões.
